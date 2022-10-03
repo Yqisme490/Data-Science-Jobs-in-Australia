@@ -1,0 +1,281 @@
+"Job.Title","skill","countVal"
+"Clinical Research Assistant","aws_yn",0
+"Clinical Research Assistant","bigml_yn",0
+"Clinical Research Assistant","c.._yn",0
+"Clinical Research Assistant","c_yn",0
+"Clinical Research Assistant","cassandra_yn",0
+"Clinical Research Assistant","excel_yn",1
+"Clinical Research Assistant","git_yn",0
+"Clinical Research Assistant","hadoop_yn",0
+"Clinical Research Assistant","hive_yn",0
+"Clinical Research Assistant","java_yn",0
+"Clinical Research Assistant","javascript_yn",0
+"Clinical Research Assistant","julia_yn",0
+"Clinical Research Assistant","mathematic_yn",0
+"Clinical Research Assistant","matlab_yn",0
+"Clinical Research Assistant","mongodb_yn",0
+"Clinical Research Assistant","nlp_yn",0
+"Clinical Research Assistant","nosql_yn",0
+"Clinical Research Assistant","powerbi_yn",0
+"Clinical Research Assistant","python_yn",0
+"Clinical Research Assistant","pytorch_yn",0
+"Clinical Research Assistant","r_yn",0
+"Clinical Research Assistant","sas_yn",0
+"Clinical Research Assistant","scala_yn",0
+"Clinical Research Assistant","spark_yn",0
+"Clinical Research Assistant","sql_yn",0
+"Clinical Research Assistant","statistic_yn",0
+"Clinical Research Assistant","tableau_yn",0
+"Clinical Research Assistant","tensorflow_yn",0
+"Clinical Research Associate","aws_yn",0
+"Clinical Research Associate","bigml_yn",0
+"Clinical Research Associate","c.._yn",0
+"Clinical Research Associate","c_yn",0
+"Clinical Research Associate","cassandra_yn",0
+"Clinical Research Associate","excel_yn",1
+"Clinical Research Associate","git_yn",0
+"Clinical Research Associate","hadoop_yn",0
+"Clinical Research Associate","hive_yn",0
+"Clinical Research Associate","java_yn",0
+"Clinical Research Associate","javascript_yn",0
+"Clinical Research Associate","julia_yn",0
+"Clinical Research Associate","mathematic_yn",0
+"Clinical Research Associate","matlab_yn",0
+"Clinical Research Associate","mongodb_yn",0
+"Clinical Research Associate","nlp_yn",0
+"Clinical Research Associate","nosql_yn",0
+"Clinical Research Associate","powerbi_yn",0
+"Clinical Research Associate","python_yn",0
+"Clinical Research Associate","pytorch_yn",0
+"Clinical Research Associate","r_yn",0
+"Clinical Research Associate","sas_yn",0
+"Clinical Research Associate","scala_yn",0
+"Clinical Research Associate","spark_yn",0
+"Clinical Research Associate","sql_yn",0
+"Clinical Research Associate","statistic_yn",0
+"Clinical Research Associate","tableau_yn",0
+"Clinical Research Associate","tensorflow_yn",0
+"Data Analyst","aws_yn",42
+"Data Analyst","bigml_yn",0
+"Data Analyst","c.._yn",0
+"Data Analyst","c_yn",0
+"Data Analyst","cassandra_yn",0
+"Data Analyst","excel_yn",54
+"Data Analyst","git_yn",0
+"Data Analyst","hadoop_yn",28
+"Data Analyst","hive_yn",27
+"Data Analyst","java_yn",0
+"Data Analyst","javascript_yn",0
+"Data Analyst","julia_yn",0
+"Data Analyst","mathematic_yn",31
+"Data Analyst","matlab_yn",0
+"Data Analyst","mongodb_yn",0
+"Data Analyst","nlp_yn",0
+"Data Analyst","nosql_yn",1
+"Data Analyst","powerbi_yn",33
+"Data Analyst","python_yn",146
+"Data Analyst","pytorch_yn",0
+"Data Analyst","r_yn",71
+"Data Analyst","sas_yn",0
+"Data Analyst","scala_yn",1
+"Data Analyst","spark_yn",46
+"Data Analyst","sql_yn",161
+"Data Analyst","statistic_yn",37
+"Data Analyst","tableau_yn",50
+"Data Analyst","tensorflow_yn",0
+"Data Engineer","aws_yn",20
+"Data Engineer","bigml_yn",0
+"Data Engineer","c.._yn",1
+"Data Engineer","c_yn",0
+"Data Engineer","cassandra_yn",0
+"Data Engineer","excel_yn",10
+"Data Engineer","git_yn",11
+"Data Engineer","hadoop_yn",1
+"Data Engineer","hive_yn",2
+"Data Engineer","java_yn",16
+"Data Engineer","javascript_yn",0
+"Data Engineer","julia_yn",0
+"Data Engineer","mathematic_yn",13
+"Data Engineer","matlab_yn",0
+"Data Engineer","mongodb_yn",0
+"Data Engineer","nlp_yn",0
+"Data Engineer","nosql_yn",2
+"Data Engineer","powerbi_yn",2
+"Data Engineer","python_yn",33
+"Data Engineer","pytorch_yn",0
+"Data Engineer","r_yn",12
+"Data Engineer","sas_yn",0
+"Data Engineer","scala_yn",15
+"Data Engineer","spark_yn",6
+"Data Engineer","sql_yn",52
+"Data Engineer","statistic_yn",2
+"Data Engineer","tableau_yn",4
+"Data Engineer","tensorflow_yn",1
+"Data Scientist","aws_yn",67
+"Data Scientist","bigml_yn",0
+"Data Scientist","c.._yn",49
+"Data Scientist","c_yn",5
+"Data Scientist","cassandra_yn",0
+"Data Scientist","excel_yn",42
+"Data Scientist","git_yn",48
+"Data Scientist","hadoop_yn",6
+"Data Scientist","hive_yn",73
+"Data Scientist","java_yn",60
+"Data Scientist","javascript_yn",17
+"Data Scientist","julia_yn",0
+"Data Scientist","mathematic_yn",202
+"Data Scientist","matlab_yn",1
+"Data Scientist","mongodb_yn",0
+"Data Scientist","nlp_yn",113
+"Data Scientist","nosql_yn",0
+"Data Scientist","powerbi_yn",65
+"Data Scientist","python_yn",322
+"Data Scientist","pytorch_yn",22
+"Data Scientist","r_yn",286
+"Data Scientist","sas_yn",20
+"Data Scientist","scala_yn",77
+"Data Scientist","spark_yn",28
+"Data Scientist","sql_yn",391
+"Data Scientist","statistic_yn",193
+"Data Scientist","tableau_yn",152
+"Data Scientist","tensorflow_yn",23
+"Data Specialist","aws_yn",0
+"Data Specialist","bigml_yn",0
+"Data Specialist","c.._yn",0
+"Data Specialist","c_yn",0
+"Data Specialist","cassandra_yn",0
+"Data Specialist","excel_yn",0
+"Data Specialist","git_yn",0
+"Data Specialist","hadoop_yn",0
+"Data Specialist","hive_yn",0
+"Data Specialist","java_yn",1
+"Data Specialist","javascript_yn",0
+"Data Specialist","julia_yn",0
+"Data Specialist","mathematic_yn",0
+"Data Specialist","matlab_yn",0
+"Data Specialist","mongodb_yn",0
+"Data Specialist","nlp_yn",0
+"Data Specialist","nosql_yn",0
+"Data Specialist","powerbi_yn",0
+"Data Specialist","python_yn",0
+"Data Specialist","pytorch_yn",0
+"Data Specialist","r_yn",0
+"Data Specialist","sas_yn",0
+"Data Specialist","scala_yn",0
+"Data Specialist","spark_yn",7
+"Data Specialist","sql_yn",45
+"Data Specialist","statistic_yn",0
+"Data Specialist","tableau_yn",5
+"Data Specialist","tensorflow_yn",0
+"Graduate Research Fellow","aws_yn",0
+"Graduate Research Fellow","bigml_yn",0
+"Graduate Research Fellow","c.._yn",41
+"Graduate Research Fellow","c_yn",0
+"Graduate Research Fellow","cassandra_yn",0
+"Graduate Research Fellow","excel_yn",0
+"Graduate Research Fellow","git_yn",0
+"Graduate Research Fellow","hadoop_yn",0
+"Graduate Research Fellow","hive_yn",0
+"Graduate Research Fellow","java_yn",0
+"Graduate Research Fellow","javascript_yn",0
+"Graduate Research Fellow","julia_yn",0
+"Graduate Research Fellow","mathematic_yn",0
+"Graduate Research Fellow","matlab_yn",0
+"Graduate Research Fellow","mongodb_yn",0
+"Graduate Research Fellow","nlp_yn",0
+"Graduate Research Fellow","nosql_yn",0
+"Graduate Research Fellow","powerbi_yn",0
+"Graduate Research Fellow","python_yn",41
+"Graduate Research Fellow","pytorch_yn",0
+"Graduate Research Fellow","r_yn",0
+"Graduate Research Fellow","sas_yn",0
+"Graduate Research Fellow","scala_yn",0
+"Graduate Research Fellow","spark_yn",41
+"Graduate Research Fellow","sql_yn",0
+"Graduate Research Fellow","statistic_yn",0
+"Graduate Research Fellow","tableau_yn",0
+"Graduate Research Fellow","tensorflow_yn",0
+"IT Support Analyst","aws_yn",0
+"IT Support Analyst","bigml_yn",0
+"IT Support Analyst","c.._yn",0
+"IT Support Analyst","c_yn",0
+"IT Support Analyst","cassandra_yn",0
+"IT Support Analyst","excel_yn",0
+"IT Support Analyst","git_yn",0
+"IT Support Analyst","hadoop_yn",0
+"IT Support Analyst","hive_yn",0
+"IT Support Analyst","java_yn",0
+"IT Support Analyst","javascript_yn",0
+"IT Support Analyst","julia_yn",0
+"IT Support Analyst","mathematic_yn",0
+"IT Support Analyst","matlab_yn",0
+"IT Support Analyst","mongodb_yn",0
+"IT Support Analyst","nlp_yn",0
+"IT Support Analyst","nosql_yn",0
+"IT Support Analyst","powerbi_yn",0
+"IT Support Analyst","python_yn",0
+"IT Support Analyst","pytorch_yn",0
+"IT Support Analyst","r_yn",0
+"IT Support Analyst","sas_yn",0
+"IT Support Analyst","scala_yn",0
+"IT Support Analyst","spark_yn",0
+"IT Support Analyst","sql_yn",0
+"IT Support Analyst","statistic_yn",0
+"IT Support Analyst","tableau_yn",0
+"IT Support Analyst","tensorflow_yn",0
+"Machine Learning Engineer","aws_yn",1
+"Machine Learning Engineer","bigml_yn",0
+"Machine Learning Engineer","c.._yn",0
+"Machine Learning Engineer","c_yn",0
+"Machine Learning Engineer","cassandra_yn",0
+"Machine Learning Engineer","excel_yn",64
+"Machine Learning Engineer","git_yn",0
+"Machine Learning Engineer","hadoop_yn",0
+"Machine Learning Engineer","hive_yn",0
+"Machine Learning Engineer","java_yn",2
+"Machine Learning Engineer","javascript_yn",0
+"Machine Learning Engineer","julia_yn",4
+"Machine Learning Engineer","mathematic_yn",16
+"Machine Learning Engineer","matlab_yn",0
+"Machine Learning Engineer","mongodb_yn",0
+"Machine Learning Engineer","nlp_yn",9
+"Machine Learning Engineer","nosql_yn",0
+"Machine Learning Engineer","powerbi_yn",0
+"Machine Learning Engineer","python_yn",17
+"Machine Learning Engineer","pytorch_yn",0
+"Machine Learning Engineer","r_yn",13
+"Machine Learning Engineer","sas_yn",0
+"Machine Learning Engineer","scala_yn",0
+"Machine Learning Engineer","spark_yn",0
+"Machine Learning Engineer","sql_yn",9
+"Machine Learning Engineer","statistic_yn",18
+"Machine Learning Engineer","tableau_yn",0
+"Machine Learning Engineer","tensorflow_yn",0
+"Software Engineer","aws_yn",2
+"Software Engineer","bigml_yn",0
+"Software Engineer","c.._yn",39
+"Software Engineer","c_yn",1
+"Software Engineer","cassandra_yn",0
+"Software Engineer","excel_yn",1
+"Software Engineer","git_yn",3
+"Software Engineer","hadoop_yn",20
+"Software Engineer","hive_yn",1
+"Software Engineer","java_yn",39
+"Software Engineer","javascript_yn",3
+"Software Engineer","julia_yn",0
+"Software Engineer","mathematic_yn",1
+"Software Engineer","matlab_yn",0
+"Software Engineer","mongodb_yn",21
+"Software Engineer","nlp_yn",0
+"Software Engineer","nosql_yn",3
+"Software Engineer","powerbi_yn",1
+"Software Engineer","python_yn",39
+"Software Engineer","pytorch_yn",0
+"Software Engineer","r_yn",0
+"Software Engineer","sas_yn",0
+"Software Engineer","scala_yn",15
+"Software Engineer","spark_yn",0
+"Software Engineer","sql_yn",5
+"Software Engineer","statistic_yn",0
+"Software Engineer","tableau_yn",0
+"Software Engineer","tensorflow_yn",0
