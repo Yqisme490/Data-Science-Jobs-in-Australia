@@ -1,141 +1,398 @@
-"Job.Title","skill","countVal"
-"Data Analyst","aws_yn",42
-"Data Analyst","bigml_yn",0
-"Data Analyst","c.._yn",0
-"Data Analyst","c_yn",0
-"Data Analyst","cassandra_yn",0
-"Data Analyst","excel_yn",54
-"Data Analyst","git_yn",0
-"Data Analyst","hadoop_yn",28
-"Data Analyst","hive_yn",27
-"Data Analyst","java_yn",0
-"Data Analyst","javascript_yn",0
-"Data Analyst","julia_yn",0
-"Data Analyst","mathematic_yn",31
-"Data Analyst","matlab_yn",0
-"Data Analyst","mongodb_yn",0
-"Data Analyst","nlp_yn",0
-"Data Analyst","nosql_yn",1
-"Data Analyst","powerbi_yn",33
-"Data Analyst","python_yn",146
-"Data Analyst","pytorch_yn",0
-"Data Analyst","r_yn",71
-"Data Analyst","sas_yn",0
-"Data Analyst","scala_yn",1
-"Data Analyst","spark_yn",46
-"Data Analyst","sql_yn",161
-"Data Analyst","statistic_yn",37
-"Data Analyst","tableau_yn",50
-"Data Analyst","tensorflow_yn",0
-"Data Engineer","aws_yn",20
-"Data Engineer","bigml_yn",0
-"Data Engineer","c.._yn",1
-"Data Engineer","c_yn",0
-"Data Engineer","cassandra_yn",0
-"Data Engineer","excel_yn",10
-"Data Engineer","git_yn",11
-"Data Engineer","hadoop_yn",1
-"Data Engineer","hive_yn",2
-"Data Engineer","java_yn",16
-"Data Engineer","javascript_yn",0
-"Data Engineer","julia_yn",0
-"Data Engineer","mathematic_yn",13
-"Data Engineer","matlab_yn",0
-"Data Engineer","mongodb_yn",0
-"Data Engineer","nlp_yn",0
-"Data Engineer","nosql_yn",2
-"Data Engineer","powerbi_yn",2
-"Data Engineer","python_yn",33
-"Data Engineer","pytorch_yn",0
-"Data Engineer","r_yn",12
-"Data Engineer","sas_yn",0
-"Data Engineer","scala_yn",15
-"Data Engineer","spark_yn",6
-"Data Engineer","sql_yn",52
-"Data Engineer","statistic_yn",2
-"Data Engineer","tableau_yn",4
-"Data Engineer","tensorflow_yn",1
-"Data Scientist","aws_yn",67
-"Data Scientist","bigml_yn",0
-"Data Scientist","c.._yn",49
-"Data Scientist","c_yn",5
-"Data Scientist","cassandra_yn",0
-"Data Scientist","excel_yn",42
-"Data Scientist","git_yn",48
-"Data Scientist","hadoop_yn",6
-"Data Scientist","hive_yn",73
-"Data Scientist","java_yn",60
-"Data Scientist","javascript_yn",17
-"Data Scientist","julia_yn",0
-"Data Scientist","mathematic_yn",202
-"Data Scientist","matlab_yn",1
-"Data Scientist","mongodb_yn",0
-"Data Scientist","nlp_yn",113
-"Data Scientist","nosql_yn",0
-"Data Scientist","powerbi_yn",65
-"Data Scientist","python_yn",322
-"Data Scientist","pytorch_yn",22
-"Data Scientist","r_yn",286
-"Data Scientist","sas_yn",20
-"Data Scientist","scala_yn",77
-"Data Scientist","spark_yn",28
-"Data Scientist","sql_yn",391
-"Data Scientist","statistic_yn",193
-"Data Scientist","tableau_yn",152
-"Data Scientist","tensorflow_yn",23
-"Data Specialist","aws_yn",0
-"Data Specialist","bigml_yn",0
-"Data Specialist","c.._yn",0
-"Data Specialist","c_yn",0
-"Data Specialist","cassandra_yn",0
-"Data Specialist","excel_yn",0
-"Data Specialist","git_yn",0
-"Data Specialist","hadoop_yn",0
-"Data Specialist","hive_yn",0
-"Data Specialist","java_yn",1
-"Data Specialist","javascript_yn",0
-"Data Specialist","julia_yn",0
-"Data Specialist","mathematic_yn",0
-"Data Specialist","matlab_yn",0
-"Data Specialist","mongodb_yn",0
-"Data Specialist","nlp_yn",0
-"Data Specialist","nosql_yn",0
-"Data Specialist","powerbi_yn",0
-"Data Specialist","python_yn",0
-"Data Specialist","pytorch_yn",0
-"Data Specialist","r_yn",0
-"Data Specialist","sas_yn",0
-"Data Specialist","scala_yn",0
-"Data Specialist","spark_yn",7
-"Data Specialist","sql_yn",45
-"Data Specialist","statistic_yn",0
-"Data Specialist","tableau_yn",5
-"Data Specialist","tensorflow_yn",0
-"Machine Learning Engineer","aws_yn",1
-"Machine Learning Engineer","bigml_yn",0
-"Machine Learning Engineer","c.._yn",0
-"Machine Learning Engineer","c_yn",0
-"Machine Learning Engineer","cassandra_yn",0
-"Machine Learning Engineer","excel_yn",64
-"Machine Learning Engineer","git_yn",0
-"Machine Learning Engineer","hadoop_yn",0
-"Machine Learning Engineer","hive_yn",0
-"Machine Learning Engineer","java_yn",2
-"Machine Learning Engineer","javascript_yn",0
-"Machine Learning Engineer","julia_yn",4
-"Machine Learning Engineer","mathematic_yn",16
-"Machine Learning Engineer","matlab_yn",0
-"Machine Learning Engineer","mongodb_yn",0
-"Machine Learning Engineer","nlp_yn",9
-"Machine Learning Engineer","nosql_yn",0
-"Machine Learning Engineer","powerbi_yn",0
-"Machine Learning Engineer","python_yn",17
-"Machine Learning Engineer","pytorch_yn",0
-"Machine Learning Engineer","r_yn",13
-"Machine Learning Engineer","sas_yn",0
-"Machine Learning Engineer","scala_yn",0
-"Machine Learning Engineer","spark_yn",0
-"Machine Learning Engineer","sql_yn",9
-"Machine Learning Engineer","statistic_yn",18
-"Machine Learning Engineer","tableau_yn",0
-"Machine Learning Engineer","tensorflow_yn",0
+"JobTitle","skill","countVal"
+"","awsyn",1
+"2023 STEM Graduate (multiple roles) (VPSG3.1)","mathematicyn",10
+"Administrative Assistant","pythonyn",1
+"Administrative Assistant","sqlyn",1
+"Analyst","excelyn",2
+"Analyst","mathematicyn",19
+"Analyst","pythonyn",1
+"Analyst","ryn",1
+"Analyst I","c++yn",1
+"Analyst I","excelyn",1
+"Analyst I","mathematicyn",1
+"Analyst I","statisticyn",1
+"Analyst Manager","excelyn",1
+"Analyst Manager","mathematicyn",1
+"Analyst Manager","pythonyn",1
+"Analyst Manager","ryn",1
+"Analytics Consultant","c++yn",1
+"Analytics Consultant","pythonyn",1
+"Analytics Consultant","sasyn",1
+"Analytics Consultant","statisticyn",1
+"Applications Engineer","sqlyn",1
+"APS6, EL1 - High Performance Computing (HPC) and Various Specialist ICT","sqlyn",7
+"Associate Applications Engineer","awsyn",1
+"Associate Applications Engineer","gityn",1
+"Associate Applications Engineer","javascriptyn",1
+"Associate Applications Engineer","javayn",1
+"Associate Data Analyst","ryn",11
+"Associate Director Research Scientist","excelyn",1
+"Associate Engineer","pythonyn",14
+"Associate Lecturer","pythonyn",1
+"Associate Research Assistant","c++yn",25
+"Associate Research Assistant","javayn",25
+"Associate Research Assistant","juliayn",1
+"Associate Research Assistant","mathematicyn",28
+"Associate Research Assistant","matlabyn",25
+"Associate Research Assistant","pythonyn",27
+"Associate Research Assistant","ryn",27
+"Associate Research Assistant","statisticyn",26
+"Associate Systems Analyst","mathematicyn",4
+"Associate Systems Analyst","statisticyn",4
+"Biostatistician","ryn",1
+"Biostatistician","statisticyn",1
+"Business Analyst","excelyn",11
+"Business Analyst","mathematicyn",1
+"Business Analyst","pythonyn",11
+"Business Analyst","sqlyn",14
+"Business Analyst","statisticyn",1
+"Business Analyst","tableauyn",2
+"Caregiver III","mathematicyn",1
+"Civil Engineer","statisticyn",1
+"Clinical Research Assistant","excelyn",1
+"Clinical Research Associate","excelyn",1
+"Customer Relations","excelyn",1
+"Customer Relations Manager","excelyn",21
+"Data Analyst","awsyn",42
+"Data Analyst","excelyn",54
+"Data Analyst","hadoopyn",28
+"Data Analyst","hiveyn",27
+"Data Analyst","mathematicyn",31
+"Data Analyst","nosqlyn",1
+"Data Analyst","powerbiyn",33
+"Data Analyst","pythonyn",146
+"Data Analyst","ryn",71
+"Data Analyst","scalayn",1
+"Data Analyst","sparkyn",46
+"Data Analyst","sqlyn",161
+"Data Analyst","statisticyn",37
+"Data Analyst","tableauyn",50
+"Data Consultant","awsyn",1
+"Data Consultant","powerbiyn",1
+"Data Consultant","sqlyn",1
+"Data Engineer","awsyn",20
+"Data Engineer","c++yn",1
+"Data Engineer","excelyn",10
+"Data Engineer","gityn",11
+"Data Engineer","hadoopyn",1
+"Data Engineer","hiveyn",2
+"Data Engineer","javayn",16
+"Data Engineer","mathematicyn",13
+"Data Engineer","nosqlyn",2
+"Data Engineer","powerbiyn",2
+"Data Engineer","pythonyn",33
+"Data Engineer","ryn",12
+"Data Engineer","scalayn",15
+"Data Engineer","sparkyn",6
+"Data Engineer","sqlyn",52
+"Data Engineer","statisticyn",2
+"Data Engineer","tableauyn",4
+"Data Engineer","tensorflowyn",1
+"Data Engineer Manager","awsyn",1
+"Data Manager","awsyn",5
+"Data Manager","excelyn",1
+"Data Manager","sqlyn",1
+"Data Manager","statisticyn",3
+"Data Scientist","awsyn",67
+"Data Scientist","c++yn",49
+"Data Scientist","cyn",5
+"Data Scientist","excelyn",42
+"Data Scientist","gityn",48
+"Data Scientist","hadoopyn",6
+"Data Scientist","hiveyn",73
+"Data Scientist","javascriptyn",17
+"Data Scientist","javayn",60
+"Data Scientist","mathematicyn",202
+"Data Scientist","matlabyn",1
+"Data Scientist","nlpyn",113
+"Data Scientist","powerbiyn",65
+"Data Scientist","pythonyn",322
+"Data Scientist","pytorchyn",22
+"Data Scientist","ryn",286
+"Data Scientist","sasyn",20
+"Data Scientist","scalayn",77
+"Data Scientist","sparkyn",28
+"Data Scientist","sqlyn",391
+"Data Scientist","statisticyn",193
+"Data Scientist","tableauyn",152
+"Data Scientist","tensorflowyn",23
+"Data Specialist","javayn",1
+"Data Specialist","sparkyn",7
+"Data Specialist","sqlyn",45
+"Data Specialist","tableauyn",5
+"Data Specialist Manager","awsyn",1
+"Data Specialist Manager","sasyn",1
+"Data Specialist Manager","sqlyn",1
+"Database Developer","sqlyn",1
+"Devops Engineer","awsyn",1
+"Devops Engineer","cyn",1
+"Devops Engineer","pythonyn",2
+"Director Data Scientist","pythonyn",1
+"Director Data Scientist","ryn",1
+"Director Data Scientist","sqlyn",1
+"Education","excelyn",1
+"Engineer","mathematicyn",1
+"Engineer","pythonyn",1
+"Engineer","sqlyn",2
+"Engineer","statisticyn",1
+"Engineer I","awsyn",1
+"Engineer I","javascriptyn",1
+"Enterprise Architect","awsyn",1
+"Enterprise Architect","mathematicyn",2
+"Enterprise Architect","nosqlyn",1
+"Enterprise Architect","sqlyn",1
+"Enterprise Developer","powerbiyn",1
+"Entry Level IT Administrator","cyn",4
+"Entry Level IT Administrator","excelyn",4
+"Entry Level IT Administrator","mathematicyn",4
+"Entry Level Media Coordinator","excelyn",5
+"Front End Engineer","javascriptyn",2
+"Full Stack Engineer","awsyn",1
+"Full Stack Engineer","gityn",1
+"Full Stack Engineer","sqlyn",1
+"Geologist","cassandrayn",1
+"Geophysicist","matlabyn",1
+"Geophysicist","pythonyn",1
+"GIS Analyst","pythonyn",1
+"Graduate Civil Engineer","excelyn",1
+"Graduate Consultant","mathematicyn",10
+"Graduate Data Consultant","awsyn",10
+"Graduate Data Consultant","mathematicyn",10
+"Graduate Data Consultant","mongodbyn",10
+"Graduate Data Consultant","pythonyn",10
+"Graduate Data Specialist","pythonyn",10
+"Graduate Data Specialist","sqlyn",10
+"Graduate Environmental Specialist","cyn",3
+"Graduate Metallurgical Engineer","excelyn",5
+"Graduate Meteorologist","mathematicyn",1
+"Graduate Research Fellow","c++yn",41
+"Graduate Research Fellow","pythonyn",41
+"Graduate Research Fellow","sparkyn",41
+"Graduate Software Developer","awsyn",1
+"Graduate Software Developer","c++yn",1
+"Graduate Software Developer","javascriptyn",1
+"Graduate Software Developer","javayn",1
+"Graduate Software Developer","mathematicyn",1
+"Graduate Software Developer","sqlyn",1
+"Graduate Technology Associate","javayn",18
+"Graduate Technology Associate","pythonyn",18
+"Graduate Technology Associate","sqlyn",18
+"Graduate Trader","c++yn",7
+"Graduate Trader","mathematicyn",7
+"Graduate Trader","pythonyn",7
+"Helicopter Pilot","cyn",5
+"Junior BI Engineer","sqlyn",1
+"Junior Trader","c++yn",17
+"Junior Trader","mathematicyn",17
+"Junior Trader","pythonyn",17
+"Lab Technician","excelyn",1
+"Lead Analytics Consultant","awsyn",1
+"Lead Analytics Consultant","excelyn",1
+"Lead Analytics Consultant","powerbiyn",1
+"Lead Analytics Consultant","ryn",1
+"Lead Analytics Consultant","sqlyn",1
+"Lead Analytics Consultant","statisticyn",1
+"Lead Analytics Consultant","tableauyn",1
+"Lead Data Specialist","awsyn",7
+"Lead Data Specialist","gityn",7
+"Lead Data Specialist","javayn",7
+"Lead Data Specialist","sqlyn",7
+"Lead Petroleum Engineer","awsyn",1
+"Lead Petroleum Engineer","pythonyn",1
+"Lead Petroleum Engineer","ryn",1
+"Lead Petroleum Engineer","scalayn",1
+"Lead Petroleum Engineer","sqlyn",1
+"Lead Product Specialist","sqlyn",1
+"Lead Quality Manager","excelyn",1
+"Lead Quality Manager","sqlyn",1
+"Lecturer","mathematicyn",1
+"Logistics Associate","excelyn",1
+"Machine Learning Engineer","awsyn",1
+"Machine Learning Engineer","excelyn",64
+"Machine Learning Engineer","javayn",2
+"Machine Learning Engineer","juliayn",4
+"Machine Learning Engineer","mathematicyn",16
+"Machine Learning Engineer","nlpyn",9
+"Machine Learning Engineer","pythonyn",17
+"Machine Learning Engineer","ryn",13
+"Machine Learning Engineer","sqlyn",9
+"Machine Learning Engineer","statisticyn",18
+"Mechanic","mathematicyn",1
+"Mobile Engineer","gityn",1
+"Music Teacher","excelyn",2
+"Non Title","excelyn",1
+"Office Administrator","excelyn",1
+"Operations Engineer","sqlyn",3
+"Operations Manager","pythonyn",1
+"Physical Education Teacher","mathematicyn",1
+"Planning Analyst","excelyn",1
+"Platform Engineer","awsyn",1
+"Platform Engineer","gityn",1
+"Platform Engineer","pythonyn",1
+"Platform Engineer","sqlyn",1
+"Postdoctoral Research Fellow","ryn",1
+"Postdoctoral Research Fellow","sasyn",1
+"Postdoctoral Research Fellow","statisticyn",1
+"Power Systems Engineer","mathematicyn",1
+"Power Systems Engineer","matlabyn",1
+"Principal Support Engineer","matlabyn",1
+"Principal Support Engineer","pythonyn",1
+"Product Manager","powerbiyn",9
+"Product Manager","ryn",9
+"Product Manager","sqlyn",9
+"Program Manager","cyn",2
+"Program Manager","ryn",2
+"Program Officer","cyn",1
+"Program Officer","excelyn",2
+"Program Officer","sqlyn",1
+"Quantitative Analyst","excelyn",1
+"Quantitative Researcher","c++yn",9
+"Quantitative Researcher","cyn",9
+"Quantitative Researcher","mathematicyn",9
+"Quantitative Researcher","matlabyn",9
+"Quantitative Researcher","pythonyn",9
+"Quantitative Researcher","statisticyn",9
+"Research Analyst","sqlyn",1
+"Research Assistant","excelyn",2
+"Research Assistant","pythonyn",1
+"Research Assistant","ryn",2
+"Research Assistant","statisticyn",2
+"Research Coordinator","excelyn",1
+"Research Fellow","c++yn",1
+"Research Fellow","cyn",1
+"Research Fellow","pythonyn",1
+"Research Fellow","pytorchyn",1
+"Research Fellow","tensorflowyn",1
+"Research Manager","excelyn",1
+"Research Scientist","excelyn",1
+"Research Scientist","ryn",1
+"Research Technician","cyn",1
+"Researcher","statisticyn",24
+"Risk Manager","excelyn",7
+"Risk Manager","mathematicyn",7
+"Risk Manager","pythonyn",5
+"Risk Manager","ryn",7
+"Risk Manager","sasyn",7
+"Risk Manager","sqlyn",7
+"Risk Manager","statisticyn",7
+"Safety Manager","excelyn",1
+"Salesforce Developer","sqlyn",1
+"Science Teacher","mathematicyn",1
+"Senior Advisor","sasyn",1
+"Senior Advisor","statisticyn",1
+"Senior Analyst","sasyn",1
+"Senior Analyst","sqlyn",2
+"Senior Analytics Consultant","mathematicyn",1
+"Senior Analytics Consultant","pythonyn",1
+"Senior Analytics Consultant","tableauyn",1
+"Senior Animator","mathematicyn",1
+"Senior Animator","pythonyn",1
+"Senior Consultant","awsyn",1
+"Senior Consultant","mathematicyn",2
+"Senior Consultant","pythonyn",2
+"Senior Consultant","ryn",2
+"Senior Consultant","sasyn",1
+"Senior Consultant","sparkyn",8
+"Senior Consultant","sqlyn",1
+"Senior Consultant","statisticyn",2
+"Senior Consultant","tableauyn",1
+"Senior Lead UX Designer","mathematicyn",1
+"Senior Lecturer","statisticyn",1
+"Senior Market Analyst","excelyn",1
+"Senior Market Analyst","mathematicyn",2
+"Senior Market Analyst","powerbiyn",3
+"Senior Market Analyst","pythonyn",2
+"Senior Market Analyst","ryn",2
+"Senior Market Analyst","sasyn",1
+"Senior Market Analyst","sqlyn",3
+"Senior Market Analyst","statisticyn",2
+"Senior Market Research","excelyn",2
+"Senior Materials Scientist","awsyn",1
+"Senior Materials Scientist","javayn",1
+"Senior Materials Scientist","pythonyn",1
+"Senior Materials Scientist","pytorchyn",1
+"Senior Materials Scientist","tensorflowyn",1
+"Senior Pilot","cyn",1
+"Senior Policy Analyst","excelyn",1
+"Senior Policy Analyst","pythonyn",1
+"Senior Policy Analyst","ryn",1
+"Senior Policy Analyst","sqlyn",1
+"Senior Policy Analyst","statisticyn",1
+"Senior Product Manager","awsyn",3
+"Senior Product Manager","statisticyn",3
+"Senior Product Manager","tensorflowyn",3
+"Senior QA Analyst","javayn",1
+"Senior Research Assistant","excelyn",1
+"Senior Research Fellow","cyn",1
+"Senior Research Fellow","statisticyn",1
+"Senior Risk Analyst","excelyn",1
+"Senior Risk Analyst","mathematicyn",1
+"Senior Risk Analyst","pythonyn",1
+"Senior Risk Analyst","ryn",1
+"Senior Risk Analyst","sasyn",1
+"Senior Risk Analyst","sqlyn",1
+"Senior Software Developer","gityn",1
+"Senior Software Developer","pythonyn",1
+"Senior Software Developer","sqlyn",1
+"Simulation Engineer","cyn",1
+"Simulation Engineer","javayn",1
+"Simulation Engineer","mathematicyn",2
+"Simulation Engineer","statisticyn",1
+"Software Developer","awsyn",1
+"Software Developer","c++yn",1
+"Software Developer","cyn",1
+"Software Developer","gityn",2
+"Software Developer","javascriptyn",1
+"Software Developer","sqlyn",1
+"Software Engineer","awsyn",2
+"Software Engineer","c++yn",39
+"Software Engineer","cyn",1
+"Software Engineer","excelyn",1
+"Software Engineer","gityn",3
+"Software Engineer","hadoopyn",20
+"Software Engineer","hiveyn",1
+"Software Engineer","javascriptyn",3
+"Software Engineer","javayn",39
+"Software Engineer","mathematicyn",1
+"Software Engineer","mongodbyn",21
+"Software Engineer","nosqlyn",3
+"Software Engineer","powerbiyn",1
+"Software Engineer","pythonyn",39
+"Software Engineer","scalayn",15
+"Software Engineer","sqlyn",5
+"Solutions Specialist","mathematicyn",1
+"Solutions Specialist","sqlyn",1
+"Specialist Family Violence Practitioner","cyn",1
+"Staff Reliability Engineer","awsyn",1
+"Staff Reliability Engineer","c++yn",1
+"Staff Reliability Engineer","javayn",1
+"Staff Reliability Engineer","nosqlyn",1
+"Staff Reliability Engineer","pythonyn",1
+"Student","mathematicyn",10
+"Summer Consultant","mathematicyn",16
+"Support Engineer","awsyn",1
+"Support Engineer","excelyn",1
+"Support Engineer","javascriptyn",1
+"Support Engineer","javayn",1
+"Support Engineer","pythonyn",2
+"Support Engineer","sparkyn",1
+"Support Engineer","sqlyn",2
+"Support Engineer","statisticyn",1
+"Support Specialist","excelyn",1
+"Support Specialist","powerbiyn",1
+"System Test Engineer","pythonyn",4
+"Systems Administrator","awsyn",1
+"Systems Administrator","cyn",1
+"Systems Administrator","pythonyn",8
+"Technical Analyst","mathematicyn",1
+"Technical Analyst","statisticyn",1
+"Technical Fellow, Job Seeker","awsyn",12
+"Technical Manager","excelyn",1
+"Technical Product Manager","awsyn",6
+"Technical Product Manager","statisticyn",6
+"Technical Product Manager","tensorflowyn",6
+"Technical Support","excelyn",1
+"Technician","mathematicyn",1
+"Technology Specialist","powerbiyn",4
+"Technology Specialist","sasyn",4
+"Technology Specialist","tableauyn",4
