@@ -1,0 +1,62 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {"text":"Top 10 Data Science Jobs in demand","fontSize":25,"anchor": "start"},
+  "width": "container",
+  "height": 400,
+  "data": { "url": "AustraliaDataScienceJobs.csv"},
+  "transform": [
+    {
+      "aggregate": [{
+       "op": "count",
+       "field": "Job\\.Title",
+       "as": "CountJob"
+      }],
+      "groupby": ["Job\\.Title"]
+    }, 
+    {
+      "window": [{
+        "op": "rank",
+        "as": "rank"
+      }],
+      "sort": [{ "field": "CountJob", "order": "descending" }]
+    }, {
+      "filter": "datum.rank <= 10"
+    }
+  ],
+  "encoding": {
+    "x": {"field": "Job\\.Title",
+       "type": "nominal",
+       "title": "Job Title",
+      "sort": {"op": "sum", "field": "CountJob","order":"descending"}},
+     "y": {
+       "field": "CountJob",
+       "title": "Count",
+       "type": "quantitative"
+    },
+    "color": {"field":"Job\\.Title",
+    "type": "nominal",
+    "scale": {"range": ["purple"]}, 
+    "legend": null
+  }
+    ,
+    "text": {"field": "CountJob", "type": "quantitative"},
+    "tooltip": [
+      {"field": "Job\\.Title", "type": "nominal", "title": "Job Title"},
+      {"field": "CountJob", "type": "quantitative", "title":"Count"}
+    ]
+    }
+,
+"layer": [{
+  "mark": "bar"
+}, {
+  "mark": {
+    "type": "text",
+    "align": "right",
+    "baseline": "bottom",
+    "dx": 6
+  },
+  "encoding": {
+    "text": {"field": "CountJob", "type": "quantitative"}
+  }
+}]
+}

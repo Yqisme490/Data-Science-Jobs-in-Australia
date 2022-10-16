@@ -1,0 +1,38 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": { "url": "companyTypeRating.csv"},
+  "title": {"text":"Private vs Public Company Comparisons","fontSize":25,"anchor": "start"},
+  "width": "container",
+  "height": 400,
+  "transform": [
+    {"calculate": "toNumber(datum.value)", "as": "value"},
+    {"calculate": "datum.key == 'Company - Private' ? -datum.value : datum.value", "as": "value"}
+  ],
+  "mark": "bar",
+  "encoding": {
+    "y": {
+      "field": "category",
+      "axis": null, "sort": "descending"
+    },
+    "x": {
+      "aggregate": "sum", "field": "value",
+      "title": "Rating",
+      "axis": {"format": "s"}, 
+      "scale": {"domain": [-5, 5]}
+    },
+    "color": {
+      "field": "key",
+      "scale": {"range": ["#675193", "#ca8861"]},
+      "legend": {"orient": "top", "title": null}
+    },
+    "tooltip": [
+      {"field": "category", "type": "nominal", "title": "Criteria"},
+      {"field": "value", "type": "quantitative", "title":"Rating"},
+      {"field": "key", "type": "nominal", "title": "Company Type"}
+    ]
+  },
+  "config": {
+    "view": {"stroke": null},
+    "axis": {"grid": false}
+  }
+}

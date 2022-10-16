@@ -1,0 +1,23 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": {"text":"Private vs Public Company Comparisons","fontSize":25,"anchor": "start"},
+    "width": "container",
+    "height": 400,
+    "data": {
+      "url": "companyTypeRating.csv"
+    },
+    "mark": "bar",
+    "encoding": {
+      "x": {"field": "category"},
+      "y": {"field": "value", "type": "quantitative",
+      "scale": {"domain": [0, 5]}},
+      "xOffset": {"field": "key"},
+      "color": {"field": "key"},
+      "tooltip": [
+        {"field": "category", "type": "nominal", "title": "Criteria"},
+        {"field": "value", "type": "quantitative", "title":"Rating"},
+        {"field": "key", "type": "nominal", "title": "Company Type"}
+      ]
+    }
+  }
+  
