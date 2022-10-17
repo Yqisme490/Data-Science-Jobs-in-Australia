@@ -1,9 +1,9 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "A simple pie chart with embedded data.",
-  "width": "container",
+  "width": 800,
   "height": 400,
-  "title": {"text":"The most important skills for different data science jobs (Top 5 in-demand Jobs)","fontSize":25,"anchor": "start"},
+  "title": {"text":"Most important skills for different data science jobs (Top 5)","fontSize":25,"anchor": "start"},
   "data": {
     "url": "top5Skills.csv"
   },
@@ -59,6 +59,7 @@
     "x": {"field": "skill", "type": "nominal", "title":"Skill", "sort": {"op": "sum", "field": "rank","order":"ascending"}
     },
     "color":{"field":"JobTitle",
+    "title":"Job Title",
     "type": "nominal",
     "scale": {
     "domain": [
